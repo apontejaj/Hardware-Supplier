@@ -20,6 +20,6 @@ Sample delivery user: "kyle@gmail.com"  Password "goslin"
 
 # mySQL Database
 
-The document hardware_supplier.sql include the complete set of instructions to create a complete sample data base. The sample users have already been incluided in this database.
+The document hardware.sql include the complete set of instructions to create a complete sample data base. The sample users have already been incluided in this database.
 
 The program have been written using "root" as user for mySQL, and an empty password in the port 3306 of the local host.
